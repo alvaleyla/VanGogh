@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+#quote{
+    font-family: 'Benne';
+    font-size: 5vw;
+}
+
+
+@media only screen and (max-width: 700px) {
+    img{
+        width: 450px;
+    }
+    .parrafo{
+        width: 400px;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    img{
+        width: 450px;
+    }
+    .parrafo{
+        width: 400px;
+    }
+}
+
+.fa-instagram-square:hover {
+    color: rgba(3, 41, 20, 0.267);
+}
+
+.fa-facebook:hover{
+    color: rgba(3, 41, 20, 0.267);
+}
