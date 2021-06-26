@@ -22,8 +22,8 @@ body{
     img{
         width: 450px;
     }
-    .parrafo{
-        width: 400px;
+    .estilo-x{
+        font-size: calc(1em + 1vw);
     }
 }
 
@@ -31,9 +31,8 @@ body{
     img{
         width: 450px;
     }
-    .parrafo{
-        width: 400px;
-    }
+    .estilo-x{
+        font-size: calc(1em + 1vw);    }
 }
 
 .fa-instagram-square:hover {
