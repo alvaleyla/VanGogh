@@ -8,6 +8,10 @@ body{
     background-color: antiquewhite;
 }
 
+#titulo{
+    font-size: 5vw;
+}
+
 #quote{
     font-family: 'Benne';
     font-size: 5vw;
@@ -39,3 +43,4 @@ body{
 .fa-facebook:hover{
     color: rgba(3, 41, 20, 0.267);
 }
+
